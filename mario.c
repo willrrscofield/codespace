@@ -22,4 +22,4 @@ int n;
 
     // move to next row
     printf("\n");
-}
+    }
