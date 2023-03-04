@@ -20,8 +20,7 @@ int n;
                 //print a brick
                 printf("#");
             }
-    }
-
-            // move to next row
+             // move to next row
             printf("\n");
+    }
 }
