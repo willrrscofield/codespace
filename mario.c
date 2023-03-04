@@ -21,6 +21,8 @@ int n;
                 printf("#");
             }
 
+    }
+
             // move to next row
             printf("\n");
-    }
+}
