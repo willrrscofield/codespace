@@ -19,8 +19,6 @@ int n;
                 //print a brick
                 printf("#");
             }
-            // move to next row
-            printf("\n");
-    }
-
+    // move to next row
+    printf("\n");
 }
