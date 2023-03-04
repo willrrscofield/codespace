@@ -4,13 +4,13 @@
 int main (void)
 {
 int n;
-do
+    do
     {
         n=get_int("width: ");
     }
     while (n<1);
 
-    for (int i=0; i<4; i++)
+    for (int i=0; i<n; i++)
     {
         printf("?");
     }
