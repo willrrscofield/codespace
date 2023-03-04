@@ -13,6 +13,7 @@ int n;
     // for each row
     for (int i=0; i<n; i++)
     {
+
             //for each column
             for (int s=0; s<n; s++)
             {
@@ -20,6 +21,6 @@ int n;
                 printf("#");
             }
 
-    // move to next row
-    printf("\n");
+            // move to next row
+            printf("\n");
     }
