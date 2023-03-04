@@ -16,7 +16,7 @@ int n;
             //for each column
             for (int s=0; s<n; s++)
             {
-                \\print a brick
+                //print a brick
                 printf("#");
             }
             // move to next row
