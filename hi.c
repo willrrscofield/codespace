@@ -2,8 +2,10 @@
 #include <cs50.h>
 int main (void)
 {
-    string s="HI!";
-    string t = "BYE!";
-    printf("%s\n", t);
-    printf("%i %i %i %i\n", s[0], s[1],s[2],s[3]);
+    string wordz [2];
+    wordz[0]= "HI!";
+    wordz[1]= "BYE!";
+
+    printf("%s\n", wordz[0]);
+    printf("%s\n", wordz[1]);
     }
